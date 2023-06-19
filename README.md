@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @janhavichaturvedi
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Computer Science 
-- 
 
 <!---
 janhavichaturvedi/janhavichaturvedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
