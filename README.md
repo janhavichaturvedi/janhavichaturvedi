@@ -4,7 +4,7 @@ janhavichaturvedi/janhavichaturvedi is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi👋, I'm Janhavi Chaturvedi<br><br>A 4th-year student pursuing Bachelors in Computer Science and Engineering, from VIT Chennai .I am a Data Science enthusiast, Web developer, and an avid participant in events that encourage me to learn. <br>Proficient in Python, C++ and Java and also have strong foundations of data structures, algorithms and coding fundamentals which help me to understand and alleviate problems.
+Hi👋, I'm Janhavi Chaturvedi<br><br>A 4th-year student pursuing Bachelors in Computer Science and Engineering, from VIT Chennai .I am a Data Science enthusiast, Web developer, and an avid participant in events that encourage me to learn. <br>Proficient in Python, C++ and Java and also have strong foundations of Data Structures.
 
 
 ## 🌐 Socials:
